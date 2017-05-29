@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "920315916057",
+    "firebase_url": "https://trans-filament-156015.firebaseio.com",
+    "project_id": "trans-filament-156015",
+    "storage_bucket": "trans-filament-156015.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920315916057:android:0d9dfb7015a5c5c9",
+        "android_client_info": {
+          "package_name": "com.google.samples.quickstart.admobexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920315916057-p2k8vlp6f35b3vcpu7u6mqffija01bld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpTJzcTfd6VDVlr9GjuyC6I5O9XFmGmzg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920315916057:android:2fa8b5fa3912bcb2",
+        "android_client_info": {
+          "package_name": "com.basiccalc.mybasiccalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920315916057-p2k8vlp6f35b3vcpu7u6mqffija01bld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpTJzcTfd6VDVlr9GjuyC6I5O9XFmGmzg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
